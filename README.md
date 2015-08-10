@@ -1,4 +1,4 @@
-Ask me anything!
+Ask Me Anything!
 ================
 
 
@@ -33,3 +33,9 @@ Authors
 | [!["Gerard Braad"](http://gravatar.com/avatar/e466994eea3c2a1672564e45aca844d0.png?s=60)](http://gbraad.nl "Gerard Braad <me@gbraad.nl>") |
 |---|
 | [@gbraad](https://twitter.com/gbraad)  |
+
+
+Note
+----
+
+Based on the AMA template made at [sindresorhus/ama](https://github.com/sindresorhus/ama)
